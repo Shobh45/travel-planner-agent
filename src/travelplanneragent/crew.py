@@ -9,8 +9,11 @@ from crewai.project import CrewBase, agent, crew, task
 from crewai.agents.agent_builder.base_agent import BaseAgent
 from typing import List
 from crewai_tools import SerperDevTool
+from crewai_tools import ScrapeWebsiteTool
 from travelplanneragent.tools.weather_tool import WeatherTool
 from travelplanneragent.tools.forecastweather_tool import ForecastWeatherTool
+from travelplanneragent.tools.flightsearch_tool import FlightSearchTool
+from travelplanneragent.tools.hotel_search_tool import HotelSearchTool
 # If you want to run a snippet of code before or after the crew starts,
 # you can use the @before_kickoff and @after_kickoff decorators
 # https://docs.crewai.com/concepts/crews#example-crew-class-with-decorators
@@ -29,7 +32,10 @@ openrouter_llm = LLM(
 
 search_tool = SerperDevTool()
 weather_tool = WeatherTool()
+scrape_website_tool = ScrapeWebsiteTool()
 forecastweather_tool = ForecastWeatherTool()
+flight_search_tool = FlightSearchTool()
+hotel_search_tool = HotelSearchTool()
 # Inserted Code
 
 @CrewBase
@@ -50,9 +56,28 @@ class Travelplanneragent():
         return Agent(
             config=self.agents_config['researcher'], # type: ignore[index]
             llm=openrouter_llm,
-            tools=[search_tool, weather_tool, forecastweather_tool],
+            tools=[search_tool, scrape_website_tool, weather_tool, forecastweather_tool],
             verbose=True
         )
+    
+    @agent
+    def budget_analyst(self) -> Agent:
+        return Agent(
+            config=self.agents_config['budget_analyst'], # type: ignore[index]
+            llm=openrouter_llm,
+            verbose=True
+        )
+    
+
+    @agent
+    def booking_agent(self) -> Agent:
+        return Agent(
+            config=self.agents_config['booking_agent'], # type: ignore[index]
+            llm=openrouter_llm,
+            tools=[flight_search_tool, hotel_search_tool],
+            verbose=True
+        )
+
 
     @agent
 #   def reporting_analyst(self) -> Agent:
@@ -60,6 +85,15 @@ class Travelplanneragent():
         return Agent(
             config=self.agents_config['planner'], # type: ignore[index]
             llm=openrouter_llm,
+            verbose=True
+        )
+    
+    @agent
+    def recommendation_agent(self) -> Agent:
+        return Agent(
+            config=self.agents_config['recommendation_agent'], # type: ignore[index]
+            llm=openrouter_llm,
+            tools=[search_tool, scrape_website_tool],
             verbose=True
         )
 
@@ -71,6 +105,18 @@ class Travelplanneragent():
         return Task(
             config=self.tasks_config['research_task'], # type: ignore[index]
         )
+    
+    @task
+    def budget_task(self) -> Task:
+        return Task(
+            config=self.tasks_config['budget_task'], # type: ignore[index]
+        )
+    
+    @task
+    def booking_task(self) -> Task:
+        return Task(
+            config=self.tasks_config['booking_task'], # type: ignore[index]
+        )
 
     @task
 #   def reporting_task(self) -> Task:
@@ -78,6 +124,12 @@ class Travelplanneragent():
         return Task(
             config=self.tasks_config['planning_task'], # type: ignore[index]
             output_file='report.md'
+        )
+    
+    @task
+    def recommendation_task(self) -> Task:
+        return Task(
+            config=self.tasks_config['recommendation_task'], # type: ignore[index]
         )
 
     @crew

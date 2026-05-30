@@ -1,120 +1,135 @@
-### Detailed Itinerary for Delhi: May 28 – June 1, 2026
+## Detailed Itinerary for Delhi (2026-05-31 to 2026-06-05)
 
-#### Day 1: Arrival & Cultural Immersion (May 28, 2026)
-- **Morning**
-  - **08:00 AM**: Arrive at Indira Gandhi International Airport, Delhi.
-  - **09:00 AM**: Take a taxi or Ola/Uber to your hotel (estimated cost: INR 500).
-  - **09:30 AM**: Check into hotel and freshen up (recommended hotels: The Lalit, Taj Palace).
+### Day 1: Arrival and Relaxation (Cultural Introduction)
 
-- **Late Morning**
-  - **11:00 AM**: Visit **India Gate**. Enjoy a leisurely walk around the complex.
-  - **12:00 PM**: Head to **Gurudwara Bangla Sahib** (approx. 10 minutes by taxi, INR 200). Enjoy the serene atmosphere and offer respects.
+**Date:** 2026-05-31  
+**Arrival:** 08:25 (IndiGo 6E 6024 from Indore)
 
-- **Lunch**
-  - **01:00 PM**: Lunch at **Karol Bagh** for street food (est. cost: INR 400).
+#### Morning
+- **09:00 - 10:00:** Take the Airport Express Metro from IGI Airport to New Delhi Station (Approx. 30 mins, INR 60).
+- **10:15 - 11:30:** Check into your accommodation at Hyatt Centric Janakpuri New Delhi. (INR 5,444 per night).
 
-- **Afternoon**
-  - **02:30 PM**: Rest at the hotel to avoid the afternoon heat.
+#### Afternoon
+- **12:00 - 13:30:** Lunch at **Indian Accent** (Average meal cost: INR 1,500 for two).
+- **14:00 - 15:30:** Visit **Lotus Temple** (Free entry). Explore the architectural beauty and tranquility.
 
-- **Evening**
-  - **05:00 PM**: Visit **Lodhi Garden** for a peaceful stroll (approx. 20 minutes by taxi, INR 300).
-  - **06:30 PM**: Dinner at **Indian Accent** (reservation recommended) (est. cost: INR 2000).
+#### Evening
+- **16:00 - 18:00:** Relax at **Lodhi Gardens** to unwind amidst nature (Free entry).
+- **18:30 - 20:00:** Dinner at **Bukhara**, renowned for its North Indian dishes (Approx. INR 2,000 for two).
   
-- **Estimated Total Cost for Day**: INR 3400  
-- **Packing Suggestions**: Light, breathable clothing, sunblock, hat, water bottle.
+#### Day Summary
+- **Transport Costs:** INR 60 (Metro)
+- **Food Costs:** INR 3,500 (Lunch + Dinner)
+- **Activity Costs:** INR 0 (Lotus Temple + Lodhi Gardens)
+- **Total:** INR 4,060
 
----
+### Day 2: Historical Exploration (Cultural Day)
 
-#### Day 2: Historical Wonders (May 29, 2026)
-- **Morning**
-  - **08:00 AM**: Breakfast at the hotel.
-  - **09:00 AM**: Visit **Red Fort** (opens at 9:30 AM). Explore the complex (entry fee: INR 50).
+**Date:** 2026-06-01
 
-- **Late Morning**
-  - **11:30 AM**: Walk (15 min) to **Chandni Chowk**, explore shops and local snacks.
+#### Morning
+- **09:00 - 10:00:** Breakfast at the hotel (inclusive).
+- **10:30 - 12:30:** Explore **Humayun's Tomb** (Entry: INR 600 for two).
 
-- **Lunch**
-  - **12:30 PM**: Lunch in Chandni Chowk (try **Paranthe Wali Gali** for traditional food) (est. cost: INR 300).
+#### Afternoon
+- **12:45 - 14:00:** Lunch at **Karim's** near Jama Masjid (Approx. INR 800 for two).
+- **14:15 - 15:30:** Visit **Jama Masjid** (Free entry).
 
-- **Afternoon**
-  - **02:00 PM**: Visit **Jama Masjid** (approx. 10 min walk, no entry fee), enjoy the grand architecture.
-  - **03:00 PM**: Visit **Qutub Minar** (travel by metro from Chandni Chowk to Qutub Minar, INR 60) (est. entry fee: INR 30).
+#### Evening
+- **16:00 - 18:00:** Explore **Chandni Chowk** for shopping and street food sampling (Variable costs).
+- **18:30 - 20:00:** Dinner at **Olive Bar & Kitchen** (Approx. INR 1,500 for two).
 
-- **Evening**
-  - **05:30 PM**: Return to hotel for rest.
-  - **07:30 PM**: Dinner at **Bukhara** (reservation recommended) (est. cost: INR 2500).
+#### Day Summary
+- **Food Costs:** INR 2,300 (Lunch + Dinner)
+- **Activity Costs:** INR 600 (Humayun's Tomb)
+- **Total:** INR 2,900
 
-- **Estimated Total Cost for Day**: INR 3640  
-- **Packing Suggestions**: Comfortable shoes, reusable shopping bag, camera.
+### Day 3: Architectural Wonders (Heritage Day)
 
----
+**Date:** 2026-06-02
 
-#### Day 3: Architectural Marvels (May 30, 2026)
-- **Morning**
-  - **08:00 AM**: Breakfast at hotel.
-  - **09:00 AM**: Visit **Humayun's Tomb** (entry fee: INR 30).
+#### Morning
+- **09:00 - 10:00:** Breakfast at the hotel.
+- **10:30 - 12:00:** Visit **Qutub Minar** (Entry: INR 600 for two).
 
-- **Late Morning**
-  - **11:00 AM**: Head to **Lotus Temple** (entry free, approx. 30 min travel time by taxi, INR 400). Enjoy the architecture and serenity.
+#### Afternoon
+- **12:30 - 14:00:** Lunch nearby (**Street Food options** around Qutub Minar, Approx. INR 400 for two).
+- **14:30 - 16:00:** Visit **Akshardham Temple** (Free entry; optional light & sound show ticket INR 100 each).
 
-- **Lunch**
-  - **01:00 PM**: Lunch at a nearby café (est. cost: INR 600).
+#### Evening
+- **16:30 - 18:00:** Stroll through **Akshardham Gardens** (Free entry).
+- **18:30 - 20:00:** Dinner at **Moti Mahal** (Approx. INR 1,500 for two).
 
-- **Afternoon**
-  - **02:30 PM**: Visit **Akshardham Temple** (entry is free, but mandatory security checks). Tour the gardens and exhibitions.
-  - **06:00 PM**: Return to hotel for rest.
+#### Day Summary
+- **Food Costs:** INR 1,900 (Lunch + Dinner)
+- **Activity Costs:** INR 600 (Qutub Minar) + INR 200 (Akshardham Show) = INR 800
+- **Total:** INR 2,700
 
-- **Evening**
-  - **07:00 PM**: Dinner at **Dum Pukht** (reservation advisable) (est. cost: INR 3000).
+### Day 4: Local Life & Culture (Exploratory Day)
 
-- **Estimated Total Cost for Day**: INR 4320  
-- **Packing Suggestions**: Modest attire for temples, hydration packs, light snacks.
+**Date:** 2026-06-03
 
----
+#### Morning
+- **09:00 - 10:00:** Breakfast at the hotel.
+- **10:30 - 11:30:** Visit **India Gate** (Free entry), enjoy the atmosphere.
 
-#### Day 4: Markets and Relaxation (May 31, 2026)
-- **Morning**
-  - **08:00 AM**: Breakfast at hotel.
-  - **09:00 AM**: Visit **Dilli Haat** (entry fee: INR 30), explore crafts and cuisine from different states.
+#### Afternoon
+- **12:00 - 14:00:** Lunch at local street vendors around India Gate (Approx. INR 600 for two).
+- **14:30 - 16:00:** Visit the **National Museum** (Entry: INR 600 for two).
 
-- **Late Morning**
-  - **11:30 AM**: Explore local shops and relax in the gardens.
+#### Evening
+- **16:30 - 18:00:** Free time to relax or explore nearby markets.
+- **18:30 - 20:30:** Dinner at Hassan's for a local dining experience (Approx. INR 1,200 for two).
 
-- **Lunch**
-  - **01:00 PM**: Lunch inside Dilli Haat (try various stalls) (est. cost: INR 600).
+#### Day Summary
+- **Food Costs:** INR 1,800 (Lunch + Dinner)
+- **Activity Costs:** INR 600 (National Museum)
+- **Total:** INR 2,400
 
-- **Afternoon**
-  - **02:30 PM**: Rest at hotel to avoid mid-day heat.
-  - **04:00 PM**: Explore nearby markets or take a spa break.
+### Day 5: City Wind Down and Departure Preparations (Relaxation Day)
 
-- **Evening**
-  - **07:00 PM**: Dinner at a recommended local restaurant or near the hotel (est. cost: INR 1500).
+**Date:** 2026-06-04
 
-- **Estimated Total Cost for Day**: INR 3860  
-- **Packing Suggestions**: Comfortable casual wear, light layers, personal care items for spa.
+#### Morning
+- **09:00 - 10:00:** Breakfast at the hotel.
+- **10:30 - 12:30:** Free time for packing or local shopping in a nearby market.
 
----
+#### Afternoon
+- **12:30 - 14:00:** Farewell lunch at a nearby café/hotel (Approx. INR 1,200 for two).
+- **14:30:** Check out from the hotel.
 
-#### Day 5: Departure (June 1, 2026)
-- **Morning**
-  - **08:00 AM**: Breakfast at hotel.
-  - **09:30 AM**: Last-minute shopping or revisit a favorite spot.
+#### Evening
+- **15:00 - 16:30:** Transport to Airport (Prepaid taxi: INR 400).
+- **Flight Departure:** 06:25 (IndiGo 6E 6490 to Indore).
+
+#### Day Summary
+- **Food Costs:** INR 1,200 (Lunch)
+- **Transport Costs:** INR 400
+- **Total:** INR 1,600
+
+### Travel Costs Overview
+
+| Category                         | Cost (INR) |
+|----------------------------------|-------------|
+| Day 1 - Cultural Introduction    | 4,060       |
+| Day 2 - Historical Exploration    | 2,900       |
+| Day 3 - Architectural Wonders    | 2,700       |
+| Day 4 - Local Life & Culture     | 2,400       |
+| Day 5 - Relaxation Day           | 1,600       |
+| **Total Estimated Costs**        | **13,660**  |
+
+### Transport Instructions
+- Utilize Metro for convenient transport (using Airport Express and local lines).
+- Consider prepaid taxis or shared auto-rickshaws for shorter distances.
   
-- **Midday**
-  - **12:00 PM**: Check out and take a taxi to the airport (estimated cost: INR 500).
-  - **01:00 PM**: Arrive at Indira Gandhi International Airport for departure.
+### Suggested Packing Items
+- Light, breathable clothing to combat the heat.
+- Comfortable shoes for walking.
+- Sunblock, sunglasses, and a hat for sun protection.
+- A reusable water bottle (stay hydrated).
 
-- **Estimated Total Cost for Day**: INR 1000  
-- **Packing Suggestions**: Ensure all souvenirs are packed, check luggage requirements for departure.
+### Final Notes
+- Enjoy street food delicacies; they are a significant part of the culture.
+- Adjust plans based on weather; be prepared for sudden showers towards the end of the trip.
 
----
-
-### Summary of Costs
-- **Day 1**: INR 3400  
-- **Day 2**: INR 3640  
-- **Day 3**: INR 4320  
-- **Day 4**: INR 3860  
-- **Day 5**: INR 1000  
-- **Total Estimated Cost for Trip**: INR 17120
-
-**Note**: This itinerary provides a balanced exploration of Delhi, mixing historical sites, cultural experiences, and local cuisines while allowing for rest periods in the hot climate. Dress appropriately for weather and cultural norms, and enjoy your captivating journey through Delhi!
+This carefully structured itinerary ensures an immersive experience in Delhi's rich cultural and historical offerings while keeping you comfortable throughout the trip. Enjoy your travels!

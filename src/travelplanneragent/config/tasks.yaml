@@ -29,6 +29,10 @@ research_task:
     
     Travel dates: {start_date} to {end_date}
 
+    Use internet search to find relevant sources.
+    Use website scraping only when detailed information
+    is required from a specific webpage.
+
     Always call tools using exact parameter names.
     For internet search use:
     {"search_query": "..."}
@@ -36,6 +40,48 @@ research_task:
     A comprehensive research output with destination info, ranked
     attractions, restaurant picks, and practical travel intelligence.
   agent: researcher
+
+budget_task:
+  description: >
+    Analyze the trip's financial feasibility:
+    1. Convert the total budget ({budget_total} {budget_currency}) to local currency
+    2. Estimate costs for: flights, accommodation,
+       food (3 meals/day * {num_travelers} travelers), activities, and local transport
+    3. Allocate budget across categories with a 10% miscellaneous buffer
+    4. Determine if the trip is feasible within budget
+    5. If over-budget, suggest specific cost-cutting measures
+    6. Classify the trip as budget / mid-range / luxury tier
+    
+    Use the research data to ground your estimates in real local prices.
+  expected_output: >
+    A detailed BudgetBreakdown with per-category allocations,
+    feasibility assessment, and cost-saving strategies.
+  agent: budget_analyst
+
+booking_task:
+  description: >
+    Search for the best travel booking options:
+    1. Find top 3 outbound flight options from {origin} to {destination}
+       departing {start_date} (within flight budget allocation)
+    2. Find top 3 return flight options for {end_date}
+    3. Find top 3 accommodation options in recommended areas
+       for {num_travelers} traveler(s)
+    4. Prioritize options offering free cancellation
+    5. Provide a clear "best value" recommendation with reasoning
+    
+    Flight budget: use the allocation from the budget breakdown.
+    Hotel budget: use the accommodation allocation from the budget breakdown.
+
+    Use city names when calling the Flight Search Tool.
+    Example:
+    - origin_city: Delhi
+    - destination_city: Mumbai
+    - departure_date: 2026-06-15
+    - number_of_adults: 2
+  expected_output: >
+    Booking options with ranked flight and hotel options, prices,
+    and clear best-value recommendations.
+  agent: booking_agent
 
 planning_task:
   description: >
@@ -54,3 +100,17 @@ planning_task:
     A complete Itinerary with day-by-day plans, time slots,
     costs, transport notes, and packing suggestions based on the research.
   agent: planner
+
+recommendation_task:
+  description: >
+    Review the entire travel plan and enhance it:
+    1. Suggest 3-5 hidden gems / off-the-beaten-path alternatives
+    2. Recommend unique local experiences (cooking classes, walking tours, etc.)
+    3. List essential local apps to download
+    4. Provide 10 useful phrases in the local language
+    5. Score the overall trip plan (1-10) with justification
+    6. Write a 2-3 paragraph executive summary of the complete trip
+  expected_output: >
+    A RecommendationOutput with personalized enhancements,
+    local tips, and a polished final summary.
+  agent: recommendation_agent

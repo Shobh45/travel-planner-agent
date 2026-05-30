@@ -23,12 +23,12 @@ def run():
     inputs = {
         'destination': "Delhi",
         'origin': "Indore",
-        'start_date': str(date(2026, 5, 28)),
-        'end_date': str(date(2026, 6, 1)),
+        'start_date': str(date(2026, 5, 31)),
+        'end_date': str(date(2026, 6, 5)),
         'trip_type': "Solo",
         'mode_of_transport': "Flight",
         'budget_total': 20000,
-        'budget_currency': "USD",
+        'budget_currency': "INR",
         'num_travelers': 2
     }
     
