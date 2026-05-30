@@ -39,6 +39,34 @@ This command initializes the TravelPlannerAgent Crew, assembling the agents and 
 
 This example, unmodified, will run the create a `report.md` file with the output of a research on LLMs in the root folder.
 
+## FastAPI Backend
+
+A new FastAPI backend is available in `src/travelplanneragent/BackEnd/app.py`.
+
+Run the API from the project root after installing dependencies:
+
+```bash
+python -m uvicorn travelplanneragent.BackEnd.app:app --reload --host 0.0.0.0 --port 8000
+```
+
+Endpoints:
+
+- `POST /plan` — submit a travel request and execute the crew
+- `GET /report` — retrieve the generated `report.md` output
+- `GET /report/pdf` — download the generated report as PDF
+
+## Streamlit Frontend
+
+A Streamlit frontend is available in `src/travelplanneragent/FrontEnd/streamlit_app.py`.
+
+Start the frontend with:
+
+```bash
+streamlit run src/travelplanneragent/FrontEnd/streamlit_app.py
+```
+
+Make sure the FastAPI backend is running first, then use the frontend to submit travel planning requests and view generated reports.
+
 ## Understanding Your Crew
 
 The TravelPlannerAgent Crew is composed of multiple AI agents, each with unique roles, goals, and tools. These agents collaborate on a series of tasks, defined in `config/tasks.yaml`, leveraging their collective skills to achieve complex objectives. The `config/agents.yaml` file outlines the capabilities and configurations of each agent in your crew.
